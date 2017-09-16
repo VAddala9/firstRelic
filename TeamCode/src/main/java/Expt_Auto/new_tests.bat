@@ -1,0 +1,16 @@
+copy expt.java Auto_L_timer_noWall_noLine.java
+copy expt.java Auto_L_timer_noWall_Line.java
+copy expt.java Auto_L_timer_Wall_noLine.java
+copy expt.java Auto_L_timer_Wall_Line.java
+copy expt.java Auto_L_encoder_noWall_noLine.java
+copy expt.java Auto_L_encoder_noWall_Line.java
+copy expt.java Auto_L_encoder_Wall_noLine.java
+copy expt.java Auto_L_encoder_Wall_Line.java
+copy expt.java Auto_R_timer_noWall_noLine.java
+copy expt.java Auto_R_timer_noWall_Line.java
+copy expt.java Auto_R_timer_Wall_noLine.java
+copy expt.java Auto_R_timer_Wall_Line.java
+copy expt.java Auto_R_encoder_noWall_noLine.java
+copy expt.java Auto_R_encoder_noWall_Line.java
+copy expt.java Auto_R_encoder_Wall_noLine.java
+copy expt.java Auto_R_encoder_Wall_Line.java
